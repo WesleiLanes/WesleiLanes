@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta por tec
 🎓 **Formação:** ADS (Uninter - 1º semestre)  
 📍 **Localização:** Canoas/RS  
 📫 **Contato:** weslei808@gmail.com  
-🔗 **LinkedIn:** [Seu LinkedIn]https://www.linkedin.com/in/weslei-lanes-7aa4a0225/
+🔗 **LinkedIn:** https://www.linkedin.com/in/weslei-lanes-7aa4a0225/
 ## Formação complementar
 - **Tecnólogo em Redes de Computadores** – Senac (2º semestre, 9 meses cursados – trancado em 09/2025)
 ## Habilidades
