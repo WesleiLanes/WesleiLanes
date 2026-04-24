@@ -22,7 +22,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta por tec
   Gestão de indicadores logísticos (lead time, SLA, avarias), emissão de documentos fiscais (CT-e, MDF-e, NF-e) e melhoria contínua de processos.
 
 ## Cursos complementares 📚
-- Grow Dev : SQL - Introdução à Banco de Dados |2026, CH 10hrs
+- SQL - Introdução à Banco de Dados - Grow Dev (10h)
 - Power BI Para Business Intelligence e Data Science – Data Science Academy (72h)
 - Master DAX – Power BI Orientado a Projeto – Udemy (17,5h)
 - Conceitos Básicos de Redes – Cisco (22h)
