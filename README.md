@@ -18,8 +18,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta por tec
 - **Analista de Dados** @ Focatto Congelados (2025 - 2026)  
   Desenvolvimento de dashboards no Power BI, tratamento de dados com Power Query, criação de medidas DAX e suporte à tomada de decisão com indicadores gerenciais.
 
-- **Assistente de Faturamento** @ Focatto Congelados (2019 - 2025)  
+- **Assistente de Faturamento** @ Focatto Congelados (2025 - 2025)  
   Gestão de indicadores logísticos (lead time, SLA, avarias), emissão de documentos fiscais (CT-e, MDF-e, NF-e) e melhoria contínua de processos.
+
+- **Conferente** @ Focatto Congelados (2019 - 2024)  
+Conferência, recebimento e expedição de mercadorias, controle de estoque e apoio às rotinas logísticas, acompanhamento de indicadores de desempenho da operação.
 
 ## Cursos complementares 📚
 - SQL - Introdução à Banco de Dados - Grow Dev (10h)
